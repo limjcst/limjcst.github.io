@@ -23,6 +23,7 @@ Mingjie Li
 I spent plenty of time on the works below.
 However, they are not ready to be published.
 
+- Mingjie Li, Xiaoying Bai, Minghua Ma, and Dan Pei. DockerMock: Pre-Build Detection of Dockerfile Faults through Mocking Instruction Execution. 2021. [arXiv:2104.05490](https://arxiv.org/abs/2104.05490)
 - Survey on The Software Engineering Course. 2020. [along with this site](/assets/report/2020软件工程课程情况调查.pdf)
 - Survey on The Project of Software Engineering Course. 2019. [along with this site](/assets/report/2019软件工程作业情况调查.pdf)
 
