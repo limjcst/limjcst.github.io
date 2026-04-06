@@ -5,15 +5,22 @@ permalink: /about/
 ---
 Mingjie Li
 
+## Employment
+
+- Researcher at China Mobile JIUTIAN Research. 2025.10-present
+- Researcher at China Mobile Research Institute. 2023.07-2025.10
+
 ## Education
 
-- Ph.D. Computer Science and Technology, Tsinghua University, 2018–present[^advisor]
+- Ph.D. Computer Science and Technology, Tsinghua University, 2018–2023[^advisor]
 - B.Eng. Computer Science and Technology, Tsinghua University, 2014–2018[^head-teacher]
 
 - The 2019 Summer School on Research in Computing Education, Trondheim, June 17-21 2019
 
 ## Publications
 
+- Yongqian Sun, Qingliang Zhang, Yu Luo, **Mingjie Li**, Shenglin Zhang, Xiaolei Hua, Renkai Yu, Xinwen Fan, Lin Zhu, Junlan Feng, and Dan Pei. Predicting the Impact of Parameter Adjustments on Cellular Networks. 2025 IEEE 36th International Symposium on Software Reliability Engineering Workshops (ISSREW), São Paulo, Brazil, 2025, pp. 33-38, doi: 10.1109/ISSREW67781.2025.00042
+- Qingyang Yu, Changhua Pei, Bowen Hao, **Mingjie Li**, Zeyan Li, Shenglin Zhang, Xianglin Lu, Rui Wang, Jiaqi Li, Zhenyu Wu, and Dan Pei. CMDiagnostor : An Ambiguity-Aware Root Cause Localization Approach Based on Call Metric Data. In Proceedings of the ACM Web Conference 2023 (WWW ’23), April 30–May 04, 2023, Austin, TX, USA. ACM, New York, NY, USA, 11 pages, doi: 10.1145/3543507.3583302
 - **Mingjie Li**, Zeyan Li, Kanglin Yin, Xiaohui Nie, Wenchi Zhang, Kaixin Sui, and Dan Pei. Causal Inference-Based Root Cause Analysis for Online Service Systems with Intervention Recognition. In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’22), August 14–18, 2022, Washington, DC, USA. ACM, New York, NY, USA, 11 pages, doi: 10.1145/3534678.3539041
 - **Mingjie Li**, Minghua Ma, Xiaohui Nie, Kanglin Yin, Li Cao, Xidao Wen, Zhiyun Yuan, Duogang Wu, Guoying Li, Wei Liu, Xin Yang, and Dan Pei. Mining Fluctuation Propagation Graph Among Time Series with Active Learning. In: Strauss, C., Cuzzocrea, A., Kotsis, G., Tjoa, A.M., Khalil, I. (eds) Database and Expert Systems Applications (DEXA 2022). Lecture Notes in Computer Science, vol 13426, Springer, Cham, 2022, doi: 10.1007/978-3-031-12423-5_17
 - Zeyan Li, Nengwen Zhao, **Mingjie Li**, Xianglin Lu, Lixin Wang, Dongdong Chang, Xiaohui Nie, Li Cao, Wenchi Zhang, Kaixin Sui, Yanhua Wang, Xu Du, Guoqiang Duan, and Dan Pei. Actionable and Interpretable Fault Localization for Recurring Failures in Online Service Systems. In Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE '22), November 14-18, 2022, Singapore, Singapore. ACM, New York, NY, USA, 13 pages, doi: 10.1145/3540250.3549092
@@ -34,7 +41,7 @@ However, they are not ready to be published.
 
 ## Experience
 
-### Teaching Assitant of Software Engineering. 2016–present
+### Teaching Assitant of Software Engineering. 2016–2022
 
 The routine of the Software Engineering course is described in the paper published in ICSE-SEET 2018.
 Following are some special works.
